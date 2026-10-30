@@ -30,18 +30,19 @@ The application displays simulated solar energy readings, battery levels, estima
 - Energy History
 - Settings
   ## 📸 Screenshots
+## 📸 Application Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
+### Login
+![SolarTrack Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![SolarTrack Dashboard](screenshots/Dashboard.png)
 
 ### Energy History
-![Energy History](screenshots/history.png)
+![SolarTrack History](screenshots/history.png)
 
 ### Settings
-![Settings](screenshots/settings.png)
+![SolarTrack Settings](screenshots/settings.png)
 
 ## 🌱 Sustainable Development Goal
 
