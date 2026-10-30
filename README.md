@@ -29,6 +29,19 @@ The application displays simulated solar energy readings, battery levels, estima
 - Solar Energy Dashboard
 - Energy History
 - Settings
+  ## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Energy History
+![Energy History](screenshots/history.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ## 🌱 Sustainable Development Goal
 
